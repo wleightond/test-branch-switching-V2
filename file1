@@ -1,0 +1,7 @@
+once we've pulled this repo, 
+ideally with two or three commits in it,
+we'll make a bunch of changes in another repo and bring it in as a remote
+that way it can't be rebased onto main, recreating the merge conflict
+
+before we rename the branches, the repo should be forked and pulled
+then we rename the branches and see what happens
